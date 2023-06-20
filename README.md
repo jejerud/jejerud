@@ -2,6 +2,8 @@
 1. Test Case 
    * Web KapanLagi.com https://docs.google.com/spreadsheets/d/1K27lnb03W91hLAZ-ulcBkfYRyxustpjS/edit?rtpof=true
    * Web OLX https://docs.google.com/spreadsheets/d/10lnO_5F5ncS8yQVz7Q7qWlue1vvtQ3TExPTM-7IlbG0/edit?usp=share_link
+   * Apps YoRipe https://docs.google.com/spreadsheets/d/1cdstMIizEm0ceMZoomKGr-4ImTb10aNrkjIBsUDLHbU/edit?usp=drive_link
+  
 2. Automation Code https://github.com/jejerud/testinglandx
 
 I’m looking to collaborate on Quality assurance Staff

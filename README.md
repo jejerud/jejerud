@@ -8,5 +8,3 @@
 3. Automation Code https://github.com/jejerud/testinglandx
 
 I’m looking to collaborate on Quality assurance Staff
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejerud)](https://github.com/anuraghazra/github-readme-stats)
